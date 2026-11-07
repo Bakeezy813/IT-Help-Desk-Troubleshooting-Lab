@@ -126,7 +126,7 @@ Scenario 4: Network Route Troubleshooting
 Objective: Identify the network devices traffic passes through when attempting to reach an external destination.
 Command used:
 
-*tracert 8.8.8.8 (show the path data takes before reaching destination (8.8.8.8 which is google)
+*tracert 8.8.8.8 (show the path data takes before reaching destination (8.8.8.8 which is google DNS )
 
 Results:
 
