@@ -69,9 +69,9 @@ Scenario 2: Network Connectivity Troubleshooting
 Objective: Test connectivity between the computer, its router, and an external IP address.
 
 Commands used:
-*ping 8.8.8.8 (Google public IP adress, external network)
+*ping 8.8.8.8 (Google public IP address, external network)
 
-*ping 192.168.0.1 (Router IP adress)
+*ping 192.168.0.1 (Router IP address)
 
 Results:
 
