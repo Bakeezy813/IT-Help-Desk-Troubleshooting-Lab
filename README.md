@@ -276,8 +276,6 @@ Future Improvements
 ![Troubleshooting Evidence](PROJ%204.png)
 ### Screenshot 5
 ![Troubleshooting Evidence](PROJ%205.png)
-### Screenshot 6
-![Troubleshooting Evidence](PROJ%206.png)
 ### Screenshot 7
 ![Troubleshooting Evidence](PROJ%207.png)
 ### Screenshot 8
