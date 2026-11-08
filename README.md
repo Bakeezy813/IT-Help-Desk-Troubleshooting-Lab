@@ -192,7 +192,7 @@ CPU
 
 before 27%
 
-before 3%
+after  3%
 
 Memory (RAM)
 
