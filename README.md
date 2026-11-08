@@ -265,6 +265,30 @@ Future Improvements
 
 
 
+## Project Screenshots & Evidence
+### Screenshot 1 – IP Configuration
+![IP Configuration](IT%20PROJ%201.png)
+### Screenshot 2
+![Troubleshooting Evidence](IT%20PROJ%202.png)
+### Screenshot 3
+![Troubleshooting Evidence](IT%20PROJ%203.png)
+### Screenshot 4
+![Troubleshooting Evidence](PROJ%204.png)
+### Screenshot 5
+![Troubleshooting Evidence](PROJ%205.png)
+### Screenshot 6
+![Troubleshooting Evidence](PROJ%206.png)
+### Screenshot 7
+![Troubleshooting Evidence](PROJ%207.png)
+### Screenshot 8
+![Troubleshooting Evidence](PROJ%208.png)
+
+
+
+
+
+
+
 
 
 
